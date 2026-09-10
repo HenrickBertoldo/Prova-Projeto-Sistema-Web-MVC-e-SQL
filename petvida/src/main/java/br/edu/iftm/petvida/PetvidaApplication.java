@@ -15,8 +15,10 @@ public class PetvidaApplication implements CommandLineRunner {
 
     // ================================================================
     // >>>>>> EDITE AQUI: troque pelos SEUS dados (Secao 3 da prova) <<<<<<
+
     public static final int NN = 46;                // dois ultimos digitos da SUA matricula
     private static final String MEU_NOME = "Henrick";   // SEU primeiro nome
+
     // ================================================================
 
     @Autowired
